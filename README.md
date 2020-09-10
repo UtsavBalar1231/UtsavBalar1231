@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hey there 👋
+[![UtsavBalar1231 gitstats](https://github-readme-stats.vercel.app/api?username=utsavbalar1231&theme=calm&layout=compact)](https://github.com/utsavbalar1231)
+![Favorite languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utsavbalar1231&theme=calm&layout=compact)
 <!--
 **UtsavBalar1231/UtsavBalar1231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
