@@ -3,11 +3,11 @@
 
 Just a regular developer from India. Trying to make world a better place.
 
-- Currently working on [IMMENSITY](https://github.com/UtsavBalar1231/kernel_xiaomi_sm8250) kernel for xiaomi sm8250 devices and [AOSPA](https://gerrit.aospa.co) Custom ROM for POCO F3.
-- Deep diving into RUST's crust and exploring basic things in Blockchain.
+- Currently working on Linux/Android BSP Development @[Vicharak](https://vicharak.in).
+- Interested in working with bootloaders and devicetrees.
 - Ask me about cats, memes, shitposting and why you are sus.
 - How to reach me: [Telegram](https://t.me/utsavthecunt) | [Mail](mailto:utsavbalar1231@gmail.com)
-- Fun fact: there are only two genders.
+- Fun fact: R*ST was the future. Now, its a mess!
 
 ![Stars](https://img.shields.io/github/stars/UtsavBalar1231?color=black&logo=github&style=flat)
 ![Followers](https://img.shields.io/github/followers/UtsavBalar1231?color=black&logo=github&style=flat)
