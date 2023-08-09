@@ -1,6 +1,6 @@
 [![UtsavBalar1231 gitstats](https://github-readme-stats.vercel.app/api?username=utsavbalar1231&theme=gruvbox&layout=compact)](https://github.com/utsavbalar1231)
 ![Favorite languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utsavbalar1231&theme=gruvbox&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com?user=UtsavBalar1231&theme=gruvbox&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=utsavbalar1231&theme=gruvbox-duo&hide_border=true)](https://git.io/streak-stats)
 
 Just a regular nerd developer from India. Trying to make the world a better place.
 
